@@ -16,8 +16,8 @@ class RetrofitWeatherRepository : IWeatherRepository {
 
     companion object {
         private const val SERVICE_URL = "https://api.openweathermap.org"
-        private const val APP_ID = "1b361a0bbfc1dc225b0a8e8dd3557c6a"
-    }//AG0H6E
+        private const val APP_ID = "YourAPIId"
+    }
 
     init {
         val moshi = Moshi.Builder().addLast(KotlinJsonAdapterFactory()).build()
