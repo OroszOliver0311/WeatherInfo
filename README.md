@@ -1,0 +1,15 @@
+Weather Info app <br>
+Used Technologies: Activity,
+Scaffold,
+AppBar,
+FloatingActionButton,
+LazyColumn,
+Dialog,
+SwipeToDismissBox,
+Navigation3,
+ViewModel,
+Repository Pattern,
+Retrofit,
+Moshi,
+Coil,
+Room
